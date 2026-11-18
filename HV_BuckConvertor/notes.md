@@ -32,3 +32,4 @@ VIN_RETURN ────────────────┴──────
                                            ▼
                                       OUTPUT LOAD
 ```
+Credits: T. Phantom
